@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1, CANAL CINEMAX
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_579968=10002.m3u8
+
+
+#EXTINF:1-, CANAL STAR
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_379968=10005.m3u8
+
+#EXTINF:1-, DRAGON BALL SUPER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=_Cmd_CjU5JUcMvIMxFDrRg&expires=1646100715&ip=167.249.22.6
+
+#EXTINF:1-, HBO2
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2-avc1_530000=10000.m3u8
